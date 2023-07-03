@@ -15,7 +15,7 @@
 6. Features
 
 ## Description
-User adjusted edits to both HTML and CSS sheets to satisfy requests, as well as to obtain better understanding for HTML and CSS code.
+Developer adjusted edits to both HTML and CSS sheets to satisfy requests, as well as to obtain better understanding for HTML and CSS code.
 * HTML element was edited to replace divs with semantic HTML coding for a better flow.
 * CSS styling sheet was edited to add to HTML element as well as cleaned up for repeating codes.
 * Developer learned hands on semantic HTML, connection between HTML and CSS style sheet and how utilize computational thinking.
