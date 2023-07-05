@@ -26,3 +26,14 @@ For the developer side instalation would require VS Code. For the user side one 
 
 ## Usage
 Nav bar has clickable links
+## Screen Shot
+![project 1](https://github.com/BrielleBroadt/Refactor-challange/assets/135186013/adab75e5-faeb-42be-9517-8df42c5e163c)
+
+
+
+## Credits
+Developer Brielle Broadt
+
+## License 
+N/A
+## Features

@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 /* Article class */
-.content {
+.article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -80,22 +80,21 @@ p {
     padding: 20px;
     clear: both;
     float: right;
-    text-align: center;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     color: #ffffff;
 }
-.benefits div {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff
 }
-.benefits h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-.benefits img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -109,28 +108,14 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-.content{
+.social img{
     max-height: 200px;
 }
 
-.social-media-marketing img {
-    max-height: 200px;
-}
-.content{
+.social h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .footer {
     padding: 30px;
     clear: both;
@@ -139,7 +124,7 @@ p {
     
 }
 
-.footer h2 {
+.footer h4 {
     
     font-size: 20px;
 }
