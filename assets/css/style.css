@@ -17,7 +17,7 @@ body {
 /*Defining the size of the word and h1 tag  */
 .header h1 {
     display: inline-block;
-    font-size: 40px;
+    font-size: 48px;
 }
 /*Defining color of the seo in Horiseon  */
 .header h1 .seo {
@@ -58,23 +58,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Image class */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Image class */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-/* Class selector */
+/* Article class */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* benefits class section */
 .benefits {
     margin-left: 20px;
     padding: 20px;
@@ -87,7 +87,6 @@ p {
     background-color: #2589bd;
     color: #ffffff;
 }
-/* benefits class section */
 .benefits div {
     margin-bottom: 32px;
     color: #ffffff
@@ -96,7 +95,6 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
 .benefits img {
     display: block;
     margin: 10px auto;
@@ -115,14 +113,9 @@ p {
     max-height: 200px;
 }
 
-.content {
-    max-height: 200px;
-}
-
 .social-media-marketing img {
     max-height: 200px;
 }
-
 .content{
     margin-bottom: 20px;
     font-size: 36px;
@@ -143,8 +136,10 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    
 }
 
 .footer h2 {
+    
     font-size: 20px;
 }
